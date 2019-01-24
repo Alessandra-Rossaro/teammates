@@ -67,9 +67,9 @@ The last stuff to fix is about the javadoc above the lines of code that I modifi
 I made what they asked for and now I am waiting for the merging! 
 
 ## 15/12/2018
-TODAY IS THE DAY! The community has approved my contribution to their project. I am so excited... my issue started from "s.Ongoing", then "s.ToReview", "s.FinalReview" and finally "s.ToMerge"!
+TODAY IS THE DAY! The community has approved my contribution to their project. I am so excited... my issue started from "s.Ongoing", then "s.ToReview", "s.FinalReview" and finally "s.ToMerge"! 
 My pull request was successfully merged and closed.
 <img src="imagesForReport/Immagine10.png" width="600">  
-This experience didn't start in the better way... it was hard to prepare the environment to work and the big diffulty at the beginning was also releated to my uncertainty about what I was doing: working on a project of other people that I don't know and this project is something used by other students and professors around the world.. and my small contributin could be an help for the community of developers and in general to all users! It was quite incredible, but I am grateful because the professor assigned me this task. It was something of literally new, that I didn't experience.
+This experience didn't start in the best possible way... it was hard to prepare the environment to work and the big diffulty, for me,  at the beginning, was also releated to my uncertainty about what I was doing and what I had to do: working on a project of other people that I don't know and this project is something used by other students and professors around the world.. and my small contributin could be an help for the community of developers and in general to all users! It was quite incredible, but I am grateful because the professor assigned me this task. It was something of literally new, that I didn't experience.
 It was nice to have this collaboration with the guy of the community taht wrote me abiut my code, for the first time I felt to treat as an adult and not only as a student and I could see my work to start and to finish with the awareness that it wasn't an end in itself as many project done at University!
 

@@ -28,7 +28,7 @@ I order to use Chrome I needed to use chromedriver extension for testing with th
 I specified the path to the chromedriver executable in test.chromedriver.path value in test.properties file.
 
 ## 06/12/2018
-This afternoon, I started to work, actively, on the project. The first step was to run the server: I had a lot of problems: At the beginning my laptop crashed many times and I asked to a friend of mine to borrow me his laptop, because mine was less powerful. I tried to make the same action with the new device, but, even if it was more powerful than mine, I had some problems (I wasted a lot of time to make again the steps described before).
+This afternoon, I started to work, actively, on the project. The first step was to run the server: I had a lot of problems: At the beginning my laptop crashed many times and I asked for a friend of mine to borrow me his laptop, because mine was less powerful. I tried to make the same action with the new device, but, even if it was more powerful than mine, I had the same problems (I wasted a lot of time to make again the steps described before).
 I understood that for running the server was enough the 85% of the charging bar.. I expected to need the 100%!
 To become a contributor, you needed to start with an open issue labeled as 'starters'. I chosed an issue very interesting: [#9248] Removing keepUpdateTimestamp from FeedbackResponse. It wasn't very difficult, but I had to search in the full project the dependencies and correct or remove them.  
 <img src="imagesForReport/Immagine1.png" width="600">  
@@ -57,3 +57,19 @@ So I updated the project with the corrections proposed and I advised them about 
 
 ## 09/12/2018 10/12/2018
 I am waiting for a feedback from the community.
+
+## 11/12/2018
+The community answered me and asked for removing some tests and irrelevant change as new lines in the oroginal README.md: I made all the corrections requested and so they labeled the project with "s.Ongoing".  
+The good thing is taht the community and especially the man who writes me each time answers quite instantaneously, so this is very exciting because you make the modification and someone in the world can see it and I don't know who he is, but we are working together!
+
+## 12/12/2018
+The last stuff to fix is about the javadoc above the lines of code that I modified: the community asked for updating it.
+I made what they asked for and now I am waiting for the merging! 
+
+## 15/12/2018
+TODAY IS THE DAY! The community has approved my contribution to their project. I am so excited... my issue started from "s.Ongoing", then "s.ToReview", "s.FinalReview" and finally "s.ToMerge"!
+My pull request was successfully merged and closed.
+<img src="imagesForReport/Immagine10.png" width="600">  
+This experience didn't start in the better way... it was hard to prepare the environment to work and the big diffulty at the beginning was also releated to my uncertainty about what I was doing: working on a project of other people that I don't know and this project is something used by other students and professors around the world.. and my small contributin could be an help for the community of developers and in general to all users! It was quite incredible, but I am grateful because the professor assigned me this task. It was something of literally new, that I didn't experience.
+It was nice to have this collaboration with the guy of the community taht wrote me abiut my code, for the first time I felt to treat as an adult and not only as a student and I could see my work to start and to finish with the awareness that it wasn't an end in itself as many project done at University!
+

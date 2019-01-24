@@ -73,3 +73,5 @@ My pull request was successfully merged and closed.
 This experience didn't start in the best possible way... it was hard to prepare the environment to work and the big diffulty, for me,  at the beginning, was also releated to my uncertainty about what I was doing and what I had to do: working on a project of other people that I don't know and this project is something used by other students and professors around the world.. and my small contributin could be an help for the community of developers and in general to all users! It was quite incredible, but I am grateful because the professor assigned me this task. It was something of literally new, that I didn't experience.
 It was nice to have this collaboration with the guy of the community taht wrote me abiut my code, for the first time I felt to treat as an adult and not only as a student and I could see my work to start and to finish with the awareness that it wasn't an end in itself as many project done at University!
 
+You can find the complete exchange of emails and the progresses of the projet here: https://github.com/TEAMMATES/teammates/pull/9266 :)
+
